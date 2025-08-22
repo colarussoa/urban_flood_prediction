@@ -66,47 +66,47 @@
 </ol>
 
 
-<h1 id = "Abstract">Abstract</h1>
+<h2 id = "Abstract">Abstract</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "List of Tables">List of Tables</h1>
+<h2 id = "List of Tables">List of Tables</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "List of Figures">List of Figures</h1>
+<h2 id = "List of Figures">List of Figures</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "Introduction">Introduction</h1>
+<h2 id = "Introduction">Introduction</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "Methods">Methods</h1>
+<h2 id = "Methods">Methods</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "Results">Results</h1>
+<h2 id = "Results">Results</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "Discussion">Discussion</h1>
+<h2 id = "Discussion">Discussion</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "Conclusion">Conclusion</h1>
+<h2 id = "Conclusion">Conclusion</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
 
-<h1 id = "References">References</h1>
+<h2 id = "References">References</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
