@@ -60,7 +60,7 @@
     </li>
     <li>
       <a href="#References">
-        <span class="title">Code In-depth</span>
+        <span class="title">References</span>
       </a>
     </li>
 </ol>
