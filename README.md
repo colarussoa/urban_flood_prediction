@@ -1,6 +1,6 @@
 # Urban Flood Prediction
 
-<center><h2>Table of Contents</h2></center>
+<h2 align="center">Table of Contents</h2>
 <ol class="toc" role="list">
     <li>
       <a href="#Abstract">
