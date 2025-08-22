@@ -44,17 +44,22 @@
       </li>
     </ol>
     <li>
-      <a href="#Introduction">
-        <span class="title">Introduction</span>
+      <a href="#Results">
+        <span class="title">Results</span>
       </a>
     </li>
     <li>
-      <a href="#Introduction">
-        <span class="title">Introduction</span>
+      <a href="#Discussion">
+        <span class="title">Discussion</span>
       </a>
     </li>
     <li>
-      <a href="#Code In-depth">
+      <a href="#Conclusion">
+        <span class="title">Conclusion</span>
+      </a>
+    </li>
+    <li>
+      <a href="#References">
         <span class="title">Code In-depth</span>
       </a>
     </li>
