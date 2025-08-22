@@ -74,6 +74,14 @@
 </p>
 
 <h2 id = "List of Tables">List of Tables</h2>
+<ol>
+    <li>
+      <a href="#Table 1">
+        <span class="title">Table 1. </span>
+      </a>
+    </li>
+</ol>
+
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
