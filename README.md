@@ -64,3 +64,49 @@
       </a>
     </li>
 </ol>
+
+
+<h1 id = "Abstract">Abstract</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "List of Tables">List of Tables</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "List of Figures">List of Figures</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "Introduction">Introduction</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "Methods">Methods</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "Results">Results</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "Discussion">Discussion</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "Conclusion">Conclusion</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h1 id = "References">References</h1>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
