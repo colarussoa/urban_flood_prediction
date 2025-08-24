@@ -97,6 +97,37 @@
 </p>
 
 <h2 id = "Methods">Methods</h2>
+
+<table>
+  <caption>Sales Data by Region</caption>
+  <thead>
+    <tr>
+      <th>Region</th>
+      <th>Q1 Sales</th>
+      <th>Q2 Sales</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>North</td>
+      <td>15000</td>
+      <td>18000</td>
+    </tr>
+    <tr>
+      <td>South</td>
+      <td>12000</td>
+      <td>14500</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>Total</td>
+      <td>27000</td>
+      <td>32500</td>
+    </tr>
+  </tfoot>
+</table>
+
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
 </p>
