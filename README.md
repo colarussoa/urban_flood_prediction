@@ -107,13 +107,17 @@
       <th>Resolution</th>
       <th>Period</th>
       <th>Source</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>North</td>
-      <td>15000</td>
-      <td>18000</td>
+      <td>Elevation</td>
+      <td>Raster</td>
+      <td>unk, I think 0.5 m</td>
+      <td>2018</td>
+      <td>https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/</td>
+      <td>See download LAS files.ipynb</td>
     </tr>
     <tr>
       <td>South</td>
