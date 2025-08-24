@@ -117,12 +117,15 @@
       <td>unk, I think 0.5 m</td>
       <td>2018</td>
       <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a> Note: a DSM will be generated from the LAS following this procedure: <b>link to code snippet</b></td>
     </tr>
     <tr>
-      <td>South</td>
-      <td>12000</td>
-      <td>14500</td>
+      <td>Elevation</td>
+      <td>Raster</td>
+      <td>unk, I think 0.5 m</td>
+      <td>2018</td>
+      <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
     </tr>
   </tbody>
   <tfoot>
