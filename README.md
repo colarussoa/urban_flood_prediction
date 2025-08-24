@@ -102,9 +102,11 @@
   <caption>Table 1. Data Inputs</caption>
   <thead>
     <tr>
-      <th>Region</th>
-      <th>Q1 Sales</th>
-      <th>Q2 Sales</th>
+      <th>Data</th>
+      <th>Format</th>
+      <th>Resolution</th>
+      <th>Period</th>
+      <th>Source</th>
     </tr>
   </thead>
   <tbody>
@@ -124,6 +126,16 @@
       <td>Total</td>
       <td>27000</td>
       <td>32500</td>
+    </tr>
+    <tr>
+      <td>North</td>
+      <td>15000</td>
+      <td>18000</td>
+    </tr>
+    <tr>
+      <td>North</td>
+      <td>15000</td>
+      <td>18000</td>
     </tr>
   </tfoot>
 </table>
