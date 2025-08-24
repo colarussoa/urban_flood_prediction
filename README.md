@@ -117,7 +117,7 @@
       <td>unk, I think 0.5 m</td>
       <td>2018</td>
       <td>https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/</td>
-      <td>See download LAS files.ipynb</td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb">See download LAS files.ipynb</a></td>
     </tr>
     <tr>
       <td>South</td>
