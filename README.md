@@ -77,7 +77,7 @@
 <ol>
     <li>
       <a href="#Table 1">
-        <span class="title">Table 1. </span>
+        <span class="title">Table 1. Data Inputs</span>
       </a>
     </li>
 </ol>
@@ -98,8 +98,8 @@
 
 <h2 id = "Methods">Methods</h2>
 
-<table>
-  <caption>Sales Data by Region</caption>
+<table id = "Table 1">
+  <caption>Table 1. Data Inputs</caption>
   <thead>
     <tr>
       <th>Region</th>
