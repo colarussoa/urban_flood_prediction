@@ -1,0 +1,40 @@
+BASE = "https://lightning.ambientweather.net/device-data"
+MAC  = "C8:C9:A3:10:32:1D"  # your macAddress (plain; requests will URL-encode)
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Referer": "https://ambientweather.net/",  # usually not required but helps
+}
+
+def to_ms(dt):
+    # dt as aware UTC datetime → epoch ms
+    return int(dt.replace(tzinfo=timezone.utc).timestamp() * 1000)
+
+def fetch_chunk(start_dt, end_dt, limit=100, asc=True):
+    params = {
+        "macAddress": MAC,
+        "start": to_ms(start_dt),
+        "end": to_ms(end_dt),
+        "limit": limit,
+        "asc": str(asc).lower(),
+    }
+    r = requests.get(BASE, params=params, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    return r.json()
+
+for i in range(7):
+    print(i, i+1)
+    today_utc = datetime.now(timezone.utc).date()
+    y_start = datetime.combine(today_utc - timedelta(days=i+1), datetime.min.time(), tzinfo=timezone.utc)
+    y_end   = datetime.combine(today_utc - timedelta(days=i), datetime.min.time(), tzinfo=timezone.utc)
+    print(y_start, y_end)
+    payload = fetch_chunk(y_start, y_end, limit=1000, asc=True)
+    print(len(payload['data']))
+    if i == 0:
+        df1 = pd.json_normalize(payload['data'])
+        df1["dateutc"] = pd.to_datetime(df1["dateutc"], unit="ms")
+    else:
+        df2 = pd.json_normalize(payload['data'])
+        df2["dateutc"] = pd.to_datetime(df2["dateutc"], unit="ms")
+        df1 = pd.concat([df1, df2], ignore_index=True)
+df1.to_csv('output.csv', index=False)

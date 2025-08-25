@@ -1,0 +1,20 @@
+Go to folder:
+cd C:\Users\sabio\Documents\urban_flooding_prediction\Data\weather_sensors\API_pulls
+
+Make environment in folder:
+python -m venv venv
+
+activate:
+venv\Scripts\activate.bat
+
+install notebook:
+pip install notebook
+
+install kernel:
+pip install ipykernel
+
+register kernel
+python -m ipykernel install --user --name=my_venv --display-name="Python (venv)"
+
+Launch notebooks:
+jupyter notebook
