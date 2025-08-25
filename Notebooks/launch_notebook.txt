@@ -17,7 +17,6 @@ register kernel
 python -m ipykernel install --user --name=my_venv --display-name="Python (venv)"
 
 Launch notebooks:
-
 jupyter notebook
 
 Get requirements.txt
@@ -25,3 +24,4 @@ pip freeze > requirements.txt
 
 how to make a venv from a requirements.txt:
 pip install -r requirements.txt
+
