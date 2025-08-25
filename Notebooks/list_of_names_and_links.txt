@@ -1,0 +1,12 @@
+AWN
+Mike will share data
+Wonder if there's a way to access other sensors
+
+WeatherSTEM
+
+Other sources to check out:
+Weather Underground (WU)
+
+PWSWeather
+
+MeteoBridge / Ecowitt.net
