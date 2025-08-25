@@ -61,6 +61,16 @@
       </a>
     </li>
     <li>
+      <a href="#Acknowledgments">
+        <span class="title">Acknowledgments</span>
+      </a>
+    </li>
+    <li>
+      <a href="#Data Access">
+        <span class="title">Data Access</span>
+      </a>
+    </li>
+    <li>
       <a href="#References">
         <span class="title">References</span>
       </a>
@@ -173,6 +183,16 @@
 <h2 id = "Conclusion">Conclusion</h2>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h2 id = "Conclusion">Conclusion</h2>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+</p>
+
+<h2 id = "Data Access">Data Access</h2>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data is stored <a href="https://github.com/colarussoa/urban_flood_prediction/tree/main/Data">in this GitHub Repository</a> or through <a href="https://usf.app.box.com/folder/337637864831">Box</a>. Information on how to download the data thorugh APIs, WMS, and Endpoints is available under <a>Notebooks/Download_Data in this Github repository</a>
 </p>
 
 <h2 id = "References">References</h2>
