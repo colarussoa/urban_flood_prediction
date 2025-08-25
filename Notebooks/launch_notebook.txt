@@ -1,11 +1,31 @@
-Go to folder:
-cd C:\Users\sabio\Documents\urban_flooding_prediction\Data\weather_sensors\API_pulls
+Python version is 3.12, so if you don't have it installed, run:
+py -3.12 -V
 
-Make environment in folder:
+Go to folder:
+#local
+cd C:\Users\sabio\Documents\urban_flooding_prediction\Data\weather_sensors\API_pulls
+#lab
+S:
+cd S:\Alec\urban_flooding_prediction\analysis
+
+Make environment in folder, Note: if you have a bunch of python installations and didn't set 3.12 as your default like me, run the below:
 python -m venv venv
+the below:
+py -3.12 -m venv venv
 
 activate:
 venv\Scripts\activate.bat
+
+how to get libraries in a venv from a requirements.txt:
+pip install -r requirements.txt
+
+register kernel:
+python -m ipykernel install --user --name=my_venv --display-name="Python (venv)"
+
+Launch notebooks:
+jupyter notebook
+
+Notes from first installation:
 
 install notebook:
 pip install notebook
@@ -13,15 +33,9 @@ pip install notebook
 install kernel:
 pip install ipykernel
 
-register kernel
-python -m ipykernel install --user --name=my_venv --display-name="Python (venv)"
-
-Launch notebooks:
-jupyter notebook
-
 Get requirements.txt
 pip freeze > requirements.txt
 
-how to make a venv from a requirements.txt:
-pip install -r requirements.txt
+
+
 
