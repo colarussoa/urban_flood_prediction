@@ -17,4 +17,8 @@ register kernel
 python -m ipykernel install --user --name=my_venv --display-name="Python (venv)"
 
 Launch notebooks:
+
 jupyter notebook
+
+Get requirements.txt
+pip freeze > requirements.txt
