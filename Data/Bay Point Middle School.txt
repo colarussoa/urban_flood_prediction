@@ -1,0 +1,2 @@
+'Name', 'longitude', 'latitude', 'Anemometermph', 'DewpointdegF', 'Hygrometer%', 'Rain_Gaugein', 'Rain_Ratein_hr', 'Solar_Radiation_SensorW_m_2', 'ThermometerdegF', 'UV_Radiation_Sensor_', 'Wind_Vanedeg', 'Barometerin_Hg', 'Barometer_Tendency_', 'Leaf_Wetness_Indicatorlwi', 'Soil_Temperature_ProbedegF', 'Soil_Moisture_Probecb', 'Wet_Bulb_Globe_TemperaturedegF', 'Heat_IndexdegF', 'Wind_ChilldegF', '10_Minute_Wind_Gustmph'
+Bay Point Middle School, -82.6606714725, 27.7127197590
