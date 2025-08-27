@@ -1,0 +1,2 @@
+'Name', 'longitude', 'latitude', 'Barometer_Tendency_', 'Barometerin_Hg', '10_Minute_Wind_Gustmph', 'Anemometermph', 'DewpointdegF', 'Hygrometer%', 'Rain_Gaugein', 'Rain_Ratein_hr', 'Solar_Radiation_SensorW_m_2', 'ThermometerdegF', 'UV_Radiation_Sensor_', 'Wet_Bulb_Globe_TemperaturedegF', 'Wind_ChilldegF', 'Wind_Vanedeg', 'Heat_IndexdegF'
+Largo Fire Rescue Station 43, -82.8167760372, 27.9198950973

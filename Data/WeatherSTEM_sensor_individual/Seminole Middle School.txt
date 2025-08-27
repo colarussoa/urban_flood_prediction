@@ -1,0 +1,2 @@
+'Name', 'longitude', 'latitude', 'Barometerin_Hg', 'Barometer_Tendency_', '10_Minute_Wind_Gustmph', 'Anemometermph', 'DewpointdegF', 'Heat_IndexdegF', 'Hygrometer%', 'Rain_Gaugein', 'Rain_Ratein_hr', 'Solar_Radiation_SensorW_m_2', 'ThermometerdegF', 'UV_Radiation_Sensor_', 'Wet_Bulb_Globe_TemperaturedegF', 'Wind_ChilldegF', 'Wind_Vanedeg', 'Soil_Moisture_4"cb', 'Soil_Moisture_8"cb', 'Soil_Temperature_4"degF', 'Soil_Temperature_8"degF', 'Condensation___Dewlwi'
+Seminole Middle School, -82.8190044577, 27.8521215952

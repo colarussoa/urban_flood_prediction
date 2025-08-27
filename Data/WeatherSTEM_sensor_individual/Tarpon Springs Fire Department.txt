@@ -1,0 +1,2 @@
+'Name', 'longitude', 'latitude', 'Barometer_Tendency_', 'Barometerin_Hg', 'ThermometerdegF', 'DewpointdegF', 'Heat_IndexdegF', 'Wet_Bulb_Globe_TemperaturedegF', 'Wind_ChilldegF', 'Anemometermph', '10_Minute_Wind_Gustmph', 'Hygrometer%', 'Wind_Vanedeg', 'Solar_Radiation_SensorW_m_2', 'UV_Radiation_Sensor_', 'Rain_Ratein_hr', 'Rain_Gaugein'
+Tarpon Springs Fire Department, -82.7448968589, 28.1427226674
