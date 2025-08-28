@@ -97,9 +97,13 @@
 </p>
 
 <h2 id = "List of Figures">List of Figures</h2>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
-</p>
+<ol>
+    <li>
+      <a href="#Figure 1">
+        <span class="title">Figure 1: Weather Sensor Locations in Pinellas County</span>
+      </a>
+    </li>
+</ol>
 
 <h2 id = "Introduction">Introduction</h2>
 <p>
@@ -107,6 +111,12 @@
 </p>
 
 <h2 id = "Methods">Methods</h2>
+
+<h3 id = "Data Sources and Processing">Data Sources and Processing</h3>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The inputs into the CNN from various flood drivers and it's sources are listed in <a href="#Table 1">Table 1</a>.
+</p>
 
 <table id = "Table 1">
   <caption>Table 1. Data Inputs</caption>
@@ -167,8 +177,14 @@
 </table>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lorem Ipsum
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rainfall data was collected by a sensor network installed by USF using the Ambient Weather Network (AWN) and open-source data from WeatherSTEM <a>Figure 1</a>
 </p>
+
+<figure>
+    <img id="Figure 1" src="./figures/Figure_x_Weather Sensor Locations in Pinellas County.png" alt="Figure 1: Weather Sensor Locations in Pinellas County">
+    <figcaption>Figure 1: Weather Sensor Locations in Pinellas County</figcaption>
+</figure>
+
 
 <h2 id = "Results">Results</h2>
 <p>
