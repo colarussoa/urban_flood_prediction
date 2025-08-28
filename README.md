@@ -177,7 +177,7 @@
 </table>
 
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rainfall data was collected by a sensor network installed by USF using the Ambient Weather Network (AWN) and open-source data from WeatherSTEM <a>Figure 1</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rainfall data was collected by a sensor network installed by USF using the Ambient Weather Network (AWN) and open-source data from WeatherSTEM <a href="#Figure 1">Figure 1</a>
 </p>
 
 <figure>
