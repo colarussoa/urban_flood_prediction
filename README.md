@@ -181,7 +181,7 @@
 </p>
 
 <figure>
-    <img id="Figure 1" src="./figures/Figure_x_Weather Sensor Locations in Pinellas County.png" alt="Figure 1: Weather Sensor Locations in Pinellas County">
+    <img id="Figure 1" src="./figures/Figure_x_Weather_Sensor_Locations_in_Pinellas_County.png" alt="Figure 1: Weather Sensor Locations in Pinellas County">
     <figcaption>Figure 1: Weather Sensor Locations in Pinellas County</figcaption>
 </figure>
 
