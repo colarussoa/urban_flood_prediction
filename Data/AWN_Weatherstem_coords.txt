@@ -2,20 +2,20 @@ name, array, lat, long
 SLCC, AWN, 27.827984, -82.763640
 Bartlett Park, AWN, 27.7505490, -82.6411180
 Denver Park, AWN, 27.8231228, -82.6113442
-Bay Point Middle School, WeatherSTEM, -82.6606714725, 27.7127197590
-Clearwater PCEM, WeatherSTEM, -82.8005960514, 27.9614606007
-FSWN Oldsmar Richard Rogers Park, WeatherSTEM, -82.6676150000, 28.0432720000
-FSWN Oldsmar Veterans Memorial Park, WeatherSTEM, -82.6643100000, 28.0287650000
-FSWN Safety Harbor Fire Department 53, WeatherSTEM, -82.7083022409, 28.0340191795
-FSWN Safety Harbor Marina, WeatherSTEM, -82.6870332098, 27.9894956657
-FSWN Safety Harbor North City Park, WeatherSTEM, -82.6957150000, 28.0162150000
-Largo Fire Rescue Station 38, WeatherSTEM, -82.8117337000, 27.8909229000
-Largo Fire Rescue Station 39, WeatherSTEM, -82.8094887068, 27.8943562146
-Largo Fire Rescue Station 40, WeatherSTEM, -82.7138870258, 27.9243931402
-Largo Fire Rescue Station 41, WeatherSTEM, -82.7917291129, 27.9149335520
-Largo Fire Rescue Station 42, WeatherSTEM, -82.7464448933, 27.9177776714
-Largo Fire Rescue Station 43, WeatherSTEM, -82.8167760372, 27.9198950973
-Pinellas County Emergency Management EOC, WeatherSTEM, -82.7903348207, 27.8934236068
-Pinellas St. Petersburg Municipal Bldg., WeatherSTEM, -82.6381530000, 27.7718540000
-Seminole Middle School, WeatherSTEM, -82.8190044577, 27.8521215952
-Tarpon Springs Fire Department, WeatherSTEM, -82.7448968589, 28.1427226674
+Bay Point Middle School, WeatherSTEM, 27.7127197590, -82.6606714725
+Clearwater PCEM, WeatherSTEM, 27.9614606007, -82.8005960514
+FSWN Oldsmar Richard Rogers Park, WeatherSTEM, 28.0432720000, -82.6676150000
+FSWN Oldsmar Veterans Memorial Park, WeatherSTEM, 28.0287650000, -82.6643100000
+FSWN Safety Harbor Fire Department 53, WeatherSTEM, 28.0340191795, -82.7083022409
+FSWN Safety Harbor Marina, WeatherSTEM, 27.9894956657, -82.6870332098
+FSWN Safety Harbor North City Park, WeatherSTEM, 28.0162150000, -82.6957150000
+Largo Fire Rescue Station 38, WeatherSTEM, 27.8909229000, -82.8117337000
+Largo Fire Rescue Station 39, WeatherSTEM, 27.8943562146, -82.8094887068
+Largo Fire Rescue Station 40, WeatherSTEM, 27.9243931402, -82.7138870258
+Largo Fire Rescue Station 41, WeatherSTEM, 27.9149335520, -82.7917291129
+Largo Fire Rescue Station 42, WeatherSTEM, 27.9177776714, -82.7464448933
+Largo Fire Rescue Station 43, WeatherSTEM, 27.9198950973, -82.8167760372
+Pinellas County Emergency Management EOC, WeatherSTEM, 27.8934236068, -82.7903348207
+Pinellas St. Petersburg Municipal Bldg., WeatherSTEM, 27.7718540000, -82.6381530000
+Seminole Middle School, WeatherSTEM, 27.8521215952, -82.8190044577
+Tarpon Springs Fire Department, WeatherSTEM, 28.1427226674, -82.7448968589
