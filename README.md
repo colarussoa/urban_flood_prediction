@@ -132,17 +132,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>Elevation</td>
-      <td>Raster</td>
-      <td>unk, I think 0.5-1 m, have to check point spacing</td>
+      <td>LiDAR</td>
+      <td>LiDAR Point Cloud (LPC)</td>
+      <td>nominal point spacing: 0.35 m</td>
       <td>2018</td>
       <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a> Note: a DSM will be generated from the LAS following this procedure: <b>link to code snippet</b></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a> Note: a DSM will be generated from the LAS following this procedure: <b>link to code snippet</b>; this product will also be used to create the building footprints</td>
     </tr>
     <tr>
       <td>FDOT Aerial Imageries (w/ CIR band)</td>
       <td>Raster</td>
-      <td>unk, I think 0.5 m</td>
+      <td>0.62 ft <b>Need to get meter conversion</b></td>
       <td>2023</td>
       <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
       <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
