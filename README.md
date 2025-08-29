@@ -90,6 +90,16 @@
         <span class="title">Table 1. Data Inputs</span>
       </a>
     </li>
+    <li>
+      <a href="#Table 2">
+        <span class="title">Table 2. Derived Data from Inputs</span>
+      </a>
+    </li>
+    <li>
+      <a href="#Table 3">
+        <span class="title">Table 3. Secondary Derived Data</span>
+      </a>
+    </li>
 </ol>
 
 <p>
@@ -194,6 +204,30 @@
 
 <table id = "Table 2">
   <caption>Table 2. Derived Data from Inputs</caption>
+  <thead>
+    <tr>
+      <th>Data</th>
+      <th>Format</th>
+      <th>Resolution</th>
+      <th>Period</th>
+      <th>Source</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>LiDAR</td>
+      <td>LiDAR Point Cloud (LPC)</td>
+      <td>nominal point spacing: 0.35 m</td>
+      <td>2018</td>
+      <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a> Note: a DSM will be generated from the LAS following this procedure: <b>link to code snippet</b>; this product will also be used to create the building footprints</td>
+    </tr>
+  </tfoot>
+</table>
+
+<table id = "Table 3">
+  <caption>Table 3. Secondary Derived Data</caption>
   <thead>
     <tr>
       <th>Data</th>
