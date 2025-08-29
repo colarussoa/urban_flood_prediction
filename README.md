@@ -168,7 +168,7 @@
       <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Notebooks/landcover_request.ipynb">Data request via WMS Notebook </a>. This parameter can be inverted to increase accuracy. There's an associated confidence; There is also <a href="https://esa-worldcover.org/en/data-access">ESA</a> or <a href="https://dynamicworld.app/">dynamic world data</a> that has a 10 meter resolution and is also an AI-generated product like the USGS</td>
     </tr>
     <tr>
-      <td>Landcover: this LULC data makes more sense to use</td>
+      <td>Landcover: finer resolution, out of scope, I think</td>
       <td>Raster</td>
       <td>10 m</td>
       <td>2024</td>
