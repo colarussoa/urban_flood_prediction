@@ -152,18 +152,26 @@
     <tr>
       <td>Landcover</td>
       <td>Raster</td>
-      <td>unk, I think 0.5 m</td>
-      <td>2023</td>
-      <td><a href="https://www.usgs.gov/centers/eros/news/annual-nlcd-lengthens-land-cover-record-40-years" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Notebooks/landcover_request.ipynb">Data request via WMS Notebook </a>. This parameter can be inverted to increase accuracy. There's an associated confidence</td>
+      <td>30 m</td>
+      <td>2024</td>
+      <td><a href="https://www.usgs.gov/centers/eros/science/annual-nlcd-data-access" target="_blank">USGS NLCD</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Notebooks/landcover_request.ipynb">Data request via WMS Notebook </a>. This parameter can be inverted to increase accuracy. There's an associated confidence; There is also <a href="https://esa-worldcover.org/en/data-access">ESA</a> or <a href="https://dynamicworld.app/">dynamic world data</a> that has a 10 meter resolution and is also an AI-generated product like the USGS</td>
     </tr>
     <tr>
-      <td>FDOT Aerial Imageries (w/ CIR band)</td>
+      <td>Landcover</td>
       <td>Raster</td>
-      <td>unk, I think 0.5 m</td>
-      <td>2023</td>
-      <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
+      <td>10 m</td>
+      <td>2024</td>
+      <td><a href="https://gis.myfwc.com/data/zips/custom/CLC/CLC_Raster.zip" target="_blank">FWC Cooperative Land Cover, Version 3.8</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Notebooks/landcover_request.ipynb">Data request via Notebook</a>.</td>
+    </tr>
+    <tr>
+      <td>Highwater Mark Data</td>
+      <td>point</td>
+      <td>peak flood condition</td>
+      <td>2025</td>
+      <td>Pinellas County</td>
+      <td>Data is confidential; </td>
     </tr>
     <tr>
       <td>FDOT Aerial Imageries (w/ CIR band)</td>
