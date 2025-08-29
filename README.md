@@ -192,12 +192,20 @@
       <td>Don't know where the classified data is; Sofi maybe, need to send email</td>
     </tr>
     <tr>
-      <td>FDOT Aerial Imageries (w/ CIR band)</td>
-      <td>Raster</td>
-      <td>unk, I think 0.5 m</td>
-      <td>2023</td>
-      <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
+      <td>AWN Weather Network (rainfall)</td>
+      <td>point</td>
+      <td>10 minutes?</td>
+      <td>2024</td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/weather.json" target="_blank">AWN data Json</a></td>
+      <td>Point to web map whenever I choose to get the data up</td>
+    </tr>
+    <tr>
+      <td>WeatherSTEM Weather Network (rainfall)</td>
+      <td>point</td>
+      <td>10 minutes?</td>
+      <td>2024</td>
+      <td><a href="https://pinellas.weatherstem.com/" target="_blank">WeatherSTEM Data</a></td>
+      <td>Point to web map whenever I choose to get the data up; Also point to the data query after I finish it. It's mostly done but on the lab computer so I dont have access to it :( </td>
     </tr>
   </tfoot>
 </table>
