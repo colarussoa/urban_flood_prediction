@@ -143,9 +143,9 @@
       <td>FDOT Aerial Imageries (w/ CIR band)</td>
       <td>Raster</td>
       <td>0.62 ft <b>Need to get meter conversion</b></td>
-      <td>2023</td>
+      <td>2023; <b>We could get 2024 data was recently made available, still not allowed 2025 according to the website</b></td>
       <td><a href="https://rockyweb.usgs.gov/vdelivery/Datasets/Staged/Elevation/LPC/Projects/FL_Peninsular_2018_D18/FL_Peninsular_Pinellas_2018/LAZ/" target="_blank">USGS</a></td>
-      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Data/download%20LAS%20files.ipynb" target="_blank">See download LAS files.ipynb</a></td>
+      <td><a href="https://aplus.fdot.gov/" target="_blank">Available for request through the FDOT</a></td>
     </tr>
   </tbody>
   <tfoot>
@@ -154,8 +154,8 @@
       <td>Raster</td>
       <td>unk, I think 0.5 m</td>
       <td>2023</td>
-      <td><a href="https://coastalimagery.blob.core.windows.net/ccap-landcover/CCAP_bulk_download/High_Resolution_Land_Cover/Phase_2_Expanded_Categories/Land_Cover_post_2023/fl_tampa_2021_ccapv2_hires_landcover_20230512.zip" target="_blank">NOAA CONUS</a></td>
-      <td>Will have to use USGS, I think. NOAA has restriction; This parameter can be inverted to increase accuracy. There's an associated confidence</td>
+      <td><a href="https://www.usgs.gov/centers/eros/news/annual-nlcd-lengthens-land-cover-record-40-years" target="_blank">USGS</a></td>
+      <td><a href="https://github.com/colarussoa/urban_flood_prediction/blob/main/Notebooks/landcover_request.ipynb">Data request via WMS Notebook </a>. This parameter can be inverted to increase accuracy. There's an associated confidence</td>
     </tr>
     <tr>
       <td>FDOT Aerial Imageries (w/ CIR band)</td>
